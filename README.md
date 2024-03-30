@@ -51,3 +51,7 @@ Contributions to this project are welcome! Whether it's enhancing existing analy
 
 #Contact
 For any questions, feedback, or collaboration opportunities, feel free to reach out to the project maintainer at itschetansharma2107@gmail.com.
+
+To access the excel file click on this link mentioned : C:\Users\Admin\Desktop\Data Science\EXCEL\Excel_Project_1.xlsx
+
+Thanks.
