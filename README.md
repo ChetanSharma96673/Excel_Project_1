@@ -11,6 +11,7 @@ Customer Base: AtliQ caters to a diverse range of customers, including Croma, Be
 The Excel report encompasses various aspects of the company's operations, including customer performance, quantity reports, divisional insights, regional analysis, financial statements, and product performance.
 
 Data Processing Techniques:
+
 Data Sourcing: Data is sourced from CSV files.
 
 Data Cleaning and Transformation: The data is cleaned and transformed to ensure accuracy and usability.
@@ -24,6 +25,7 @@ DAX Measures: Measures are created using DAX (Data Analysis Expressions) for cal
 Data Model: A comprehensive data model is constructed to establish relationships between different datasets.
 
 #Contents
+
 1.Customer Performance Report: Analysis of customer performance metrics such as sales, revenue, and profitability.
 
 2.Quantity Report: Insights into the quantity of products sold across different categories and regions.
@@ -47,6 +49,7 @@ Data Model: A comprehensive data model is constructed to establish relationships
 #Data Sources and Processing
 
 The project utilizes the following CSV files as data sources:
+
 dim_product
 dim_market
 dim_customer
